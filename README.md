@@ -4,20 +4,15 @@ This project integrates Text-to-Speech (TTS), Speech-to-Text (STT), and OpenAI's
 
 ## Installation
 
-1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/yourusername/speech-chatgpt-integration.git
-    cd speech-chatgpt-integration
-    ```
 
-2. Install the required dependencies:
+1. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Install PyAudio (if not installed):
+2. Install PyAudio (if not installed):
 
     For Windows:
     ```bash
@@ -30,7 +25,7 @@ This project integrates Text-to-Speech (TTS), Speech-to-Text (STT), and OpenAI's
     pip install pyaudio
     ```
 
-4. Run the script:
+3. Run the script:
 
     ```bash
     python speech_chatgpt.py
