@@ -8,9 +8,12 @@ This project integrates Text-to-Speech (TTS), Speech-to-Text (STT), and OpenAI's
 
 1. Install the required dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+dependencies:
+
+openai
+SpeechRecognition
+pyttsx3
+pyaudio
 
 2. Install PyAudio (if not installed):
 
